@@ -6,3 +6,4 @@ This repository aims to list and organize projects and tools in python.
 
 - [poetry](https://github.com/python-poetry/poetry)
 - [pipx](https://github.com/pypa/pipx)
+- [pdm](https://github.com/pdm-project/pdm)
