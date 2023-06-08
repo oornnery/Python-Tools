@@ -9,4 +9,4 @@ This repository aims to list and organize projects and tools in python.
   - [pdm](https://github.com/pdm-project/pdm)
 
   ### Build
-    - [flint](https://github.com/marshallward/flint)
+   - [flint](https://github.com/marshallward/flint)
